@@ -4,6 +4,7 @@
 2. Construct autoencoder model (Eat_journal_AE.ipynb)
 3. Subgrouping and statistical analysis (Eat_journal_subgrp_stat.ipynb)
 4. Utility codes (Eat_journal_util.ipynb)
+5. Additional analysis for revision process (Eat_journal_addition.ipynb)
 
 # Code for research
 BioRxiv
