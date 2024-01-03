@@ -10,4 +10,4 @@
 BioRxiv
 https://www.biorxiv.org/content/10.1101/2022.03.03.482759v1
 
-Under review Neuroimage (SCI, Q1, IF=6.556, JCR Top 3.6%, H-index=364))
+Human Brain Mapping (Accepted, SCI, Q1, IF=5.339, JCR Top 10%, H-index=209))
